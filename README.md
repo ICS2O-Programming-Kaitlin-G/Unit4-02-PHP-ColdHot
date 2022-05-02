@@ -1,1 +1,2 @@
 # Unit4-02-PHP-ColdHot
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Kaitlin-G/Unit4-02-PHP-ColdHot/actions/workflows/main.yml/badge.svg)](https://github.com/ICS2O-Programming-Kaitlin-G/Unit4-02-PHP-ColdHot/actions)

@@ -1,0 +1,15 @@
+/* Created by: Katie
+* Created on: April 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit4-02-PHP-ColdHot
+*/
+
+h1 {
+  color: sienna;
+  background-color: lightblue;
+  border: 6px dotted saddlebrown;
+}
+
+body {
+  color: darkmagenta;
+}
